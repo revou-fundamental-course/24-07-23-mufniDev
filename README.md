@@ -14,6 +14,6 @@ HappyTravel Landing Page adalah proyek sederhana berupa halaman depan website ag
 - CSS
 - JavaScript
 
-Author : MufniDev
+Author : Mufni Banil anbiya
 
 * mini project
