@@ -4,6 +4,10 @@
   margin: 0;
   font-family: 'Nunito', sans-serif;
 }
+html
+{
+  scroll-behavior: smooth;
+}
 body
 {
   background: #f0f0f0;
@@ -469,10 +473,6 @@ select
   border-radius: 10px;
   background: none;
   font-weight: bold;
-}
-select:hover
-{
-  background: red;
 }
 label
 {
